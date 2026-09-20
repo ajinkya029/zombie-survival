@@ -58,7 +58,7 @@ Test your reflexes, survive the night, and become the last one standing!
 ## 📂 Project Structure
 
 ```text
-zombie-survival-vite/
+zombie-survival/
 │
 ├── public/
 │
@@ -79,13 +79,13 @@ zombie-survival-vite/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/zombie-survival-vite.git
+git clone https://github.com/ajinkya029/zombie-survival.git
 ```
 
 ### 2. Navigate to the Project Directory
 
 ```bash
-cd zombie-survival-vite
+cd zombie-survival
 ```
 
 ### 3. Install Dependencies
